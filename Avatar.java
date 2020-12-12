@@ -3,7 +3,7 @@ package cata;
 /**
  * 
  * Classe Avatar
- * @author joao
+ * @author Rafael
  *
  */
 
